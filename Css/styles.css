@@ -38,6 +38,7 @@ p{line-height: 2}
 
   }
 
+
 .top-cloud{position:absolute;
             right:500px;
             top:50px;}
@@ -48,6 +49,8 @@ p{line-height: 2}
           line-height: 2;
 
 }
+.images{border-radius: 20px;}
+
 .html{width: 10%;
       float:left;
      margin-right:50px;}
